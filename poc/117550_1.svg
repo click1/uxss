@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<script>
+svg = document.documentElement;
+frame = svg.appendChild(document.createElementNS("http://www.w3.org/1999/xhtml", "iframe"));
+frame.contentWindow.onunload = function() {
+	svg.appendChild(parent.specialFrame);
+}
+</script> 
+<element param="1" param="2"/>
+</svg>
