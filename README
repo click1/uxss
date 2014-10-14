@@ -1,0 +1,10 @@
+UXSS在线测试地址：http://uxss.sinaapp.com
+目前收录的poc如下：
+'https://code.google.com/p/chromium/issues/detail?id=143437'
+'https://code.google.com/p/chromium/issues/detail?id=37383',
+'https://code.google.com/p/chromium/issues/detail?id=143439'
+'https://code.google.com/p/chromium/issues/detail?id=98053'
+'https://code.google.com/p/chromium/issues/detail?id=117550'
+'https://code.google.com/p/chromium/issues/detail?id=90222'
+
+代码可以在sae上面运行
