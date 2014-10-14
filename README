@@ -1,4 +1,4 @@
-UXSS在线测试地址：http://uxss.sinaapp.com
+手机浏览器UXSS漏洞在线测试地址：http://uxss.sinaapp.com
 目前收录的poc如下：
 'https://code.google.com/p/chromium/issues/detail?id=143437'
 'https://code.google.com/p/chromium/issues/detail?id=37383',
@@ -7,4 +7,4 @@ UXSS在线测试地址：http://uxss.sinaapp.com
 'https://code.google.com/p/chromium/issues/detail?id=117550'
 'https://code.google.com/p/chromium/issues/detail?id=90222'
 
-代码可以在sae上面运行
+代码可以在sae上面运行,可能比较耗流量，请在wifi环境下测试！！
