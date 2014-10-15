@@ -1,5 +1,5 @@
 感谢 @瘦蛟舞 整理测试！！ 
-手机浏览器UXSS漏洞在线测试地址：http://uxss.sinaapp.com
+android手机浏览器UXSS漏洞在线测试地址：http://uxss.sinaapp.com
 目前收录的poc如下：
 'https://code.google.com/p/chromium/issues/detail?id=143437'
 'https://code.google.com/p/chromium/issues/detail?id=37383',
